@@ -450,7 +450,7 @@ public class MainActivity extends AppCompatActivity {
                 NotificationCompat.InboxStyle inboxStyle = new NotificationCompat.InboxStyle();
 
                 // Sets a title for the Inbox in expanded layout
-                inboxStyle.setBigContentTitle("Event tracker details:");
+                inboxStyle.setBigContentTitle("Expanded Notification:");
                 // Moves events into the expanded layout
                 for (int i = 0; i < 6; i++) {
 
